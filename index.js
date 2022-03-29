@@ -1,5 +1,5 @@
-console.log("Hola mundo")
+// index.js
 
-console.log("Mike")
+const canvas = document.getElementById("game")
 
-console.log("Otro cambio. No se cuando va a empezar la clase, pero bueno.")
+console.log(canvas)
